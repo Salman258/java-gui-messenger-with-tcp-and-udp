@@ -9,7 +9,6 @@ public class Agent {
 		this.socket = sock;
 		pingAgent();
 	}
-	
 	private void pingAgent(){
 		DataOutputStream output=null;
 		try {
