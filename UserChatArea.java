@@ -18,7 +18,7 @@ import javafx.scene.layout.Priority;
 import javafx.stage.Stage;
 
 public class UserChatArea{
-	private static String serverIP = "192.168.43.121" ;
+	private static String serverIP = "192.168.0.0" ;
 	private static int userPort = 9099;
 	static boolean quit = false;
 	private static Stage chatStage;
