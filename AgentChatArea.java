@@ -23,7 +23,6 @@ import javafx.stage.Stage;
 import java.util.Date;
 
 public class AgentChatArea{
-	
 	private static String serverIP = "192.168.43.121" ;
 	private static int agentPort = 9088;
 	private static AgentReceiveThread receive;
