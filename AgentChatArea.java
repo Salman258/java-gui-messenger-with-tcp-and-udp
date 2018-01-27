@@ -436,8 +436,7 @@ public class AgentChatArea{
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
-	}
-	
+	}	
 	
 }
 
